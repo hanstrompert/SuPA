@@ -72,7 +72,7 @@ protobuf==4.21.12
     #   grpcio-tools
     #   mypy-protobuf
     #   supa (pyproject.toml)
-pydantic[dotenv]==1.10.15
+pydantic[dotenv]==2.7.0
     # via supa (pyproject.toml)
 python-dotenv==1.0.1
     # via pydantic

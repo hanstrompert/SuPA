@@ -96,7 +96,7 @@ tabulate==0.8.10
     # via supa (setup.cfg)
 tempora==5.5.1
     # via portend
-typeguard==4.2.1
+typeguard==4.3.0
     # via inflect
 types-protobuf==4.24.0.20240408
     # via mypy-protobuf

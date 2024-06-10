@@ -100,7 +100,7 @@ typeguard==4.2.1
     # via inflect
 types-protobuf==4.24.0.20240408
     # via mypy-protobuf
-typing-extensions==4.11.0
+typing-extensions==4.12.2
     # via
     #   inflect
     #   pydantic

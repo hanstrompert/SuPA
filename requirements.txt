@@ -94,7 +94,7 @@ structlog==20.1.0
     # via supa (setup.cfg)
 tabulate==0.8.10
     # via supa (setup.cfg)
-tempora==5.5.1
+tempora==5.6.0
     # via portend
 typeguard==4.2.1
     # via inflect
